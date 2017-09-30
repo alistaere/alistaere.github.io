@@ -3,8 +3,9 @@
 .navigation  {
 	background-color: black;
 	font-family: Arial;
-	font-size: 10px;
+	font-size: 12px;
 	letter-spacing: 5px;
-	color: white;
+	text-color: white;
 	text-align: center;
+	height: 500px;
 }
